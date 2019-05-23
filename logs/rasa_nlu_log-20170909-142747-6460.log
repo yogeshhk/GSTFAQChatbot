@@ -1,0 +1,4 @@
+{"model": "default", "time": "2017-09-09T14:28:08.083726", "user_input": {"entities": [], "intent": {"confidence": 1.0, "name": "greet"}, "text": "hello there"}}
+{"model": "default", "time": "2017-09-09T14:28:09.986929", "user_input": {"entities": [], "intent": {"confidence": 1.0, "name": "greet"}, "text": "hello there"}}
+{"model": "default", "time": "2017-09-09T14:29:02.658423", "user_input": {"entities": [], "intent": {"confidence": 1.0, "name": "greet"}, "text": "hey"}}
+{"model": "default", "time": "2017-09-09T14:29:16.527848", "user_input": {"entities": [], "intent": {"confidence": 1.0, "name": "None"}, "text": "how are you?"}}

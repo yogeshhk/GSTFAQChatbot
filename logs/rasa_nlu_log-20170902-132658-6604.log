@@ -1,0 +1,2 @@
+{"model": "default", "time": "2017-09-02T13:27:25.922248", "user_input": {"entities": [], "intent": {"confidence": 1.0, "name": "greet"}, "text": "hello"}}
+{"model": "default", "time": "2017-09-02T13:31:41.000838", "user_input": {"entities": [], "intent": {"confidence": 1.0, "name": "greet"}, "text": "hello there"}}

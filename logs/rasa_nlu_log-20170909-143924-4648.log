@@ -1,0 +1,8 @@
+{"model": "default", "time": "2017-09-09T14:39:32.595548", "user_input": {"entities": [], "intent": {"confidence": 1.0, "name": "None"}, "text": "how are you?"}}
+{"model": "default", "time": "2017-09-09T14:39:40.021161", "user_input": {"entities": [], "intent": {"confidence": 1.0, "name": "greet"}, "text": "hey"}}
+{"model": "default", "time": "2017-09-09T14:40:09.765214", "user_input": {"entities": [], "intent": {"confidence": 1.0, "name": "None"}, "text": "who are you?"}}
+{"model": "default", "time": "2017-09-09T14:40:22.900437", "user_input": {"entities": [], "intent": {"confidence": 1.0, "name": "None"}, "text": "who"}}
+{"model": "default", "time": "2017-09-09T14:40:36.197661", "user_input": {"entities": [], "intent": {"confidence": 1.0, "name": "None"}, "text": "yeah"}}
+{"model": "default", "time": "2017-09-09T14:40:53.030090", "user_input": {"entities": [], "intent": {"confidence": 1.0, "name": "goodbye"}, "text": "goodbye"}}
+{"model": "default", "time": "2017-09-09T14:41:04.402510", "user_input": {"entities": [], "intent": {"confidence": 1.0, "name": "None"}, "text": "ok"}}
+{"model": "default", "time": "2017-09-09T14:41:25.778548", "user_input": {"entities": [], "intent": {"confidence": 1.0, "name": "None"}, "text": "What event is happening at Lecture hall 6:30 PM today"}}

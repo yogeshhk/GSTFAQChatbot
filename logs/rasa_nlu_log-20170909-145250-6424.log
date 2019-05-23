@@ -1,0 +1,10 @@
+{"model": "default", "time": "2017-09-09T14:52:59.729059", "user_input": {"entities": [], "intent": {"confidence": 1.0, "name": "None"}, "text": "What event is happening at Lecture hall 6:30 PM today"}}
+{"model": "default", "time": "2017-09-09T14:53:07.341872", "user_input": {"entities": [], "intent": {"confidence": 1.0, "name": "None"}, "text": "ok"}}
+{"model": "default", "time": "2017-09-09T14:53:39.528729", "user_input": {"entities": [], "intent": {"confidence": 1.0, "name": "greet"}, "text": "hello there"}}
+{"model": "default", "time": "2017-09-09T14:53:50.776349", "user_input": {"entities": [], "intent": {"confidence": 1.0, "name": "None"}, "text": "yeah"}}
+{"model": "default", "time": "2017-09-09T14:55:04.963287", "user_input": {"entities": [], "intent": {"confidence": 1.0, "name": "None"}, "text": "great"}}
+{"model": "default", "time": "2017-09-09T14:55:23.561519", "user_input": {"entities": [], "intent": {"confidence": 1.0, "name": "None"}, "text": "What event is happening at Lecture hall 10 AM today"}}
+{"model": "default", "time": "2017-09-09T14:56:25.897633", "user_input": {"entities": [], "intent": {"confidence": 1.0, "name": "None"}, "text": "who are you?"}}
+{"model": "default", "time": "2017-09-09T14:56:56.180486", "user_input": {"entities": [], "intent": {"confidence": 1.0, "name": "None"}, "text": "\"list events before 12\""}}
+{"model": "default", "time": "2017-09-09T14:57:20.662929", "user_input": {"entities": [], "intent": {"confidence": 1.0, "name": "None"}, "text": "list events before 12"}}
+{"model": "default", "time": "2017-09-09T14:58:47.656683", "user_input": {"entities": [], "intent": {"confidence": 1.0, "name": "None"}, "text": "list events before 12"}}

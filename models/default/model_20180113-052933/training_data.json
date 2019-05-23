@@ -1,0 +1,263 @@
+{
+  "rasa_nlu_data": {
+    "entity_synonyms": [],
+    "common_examples": [
+      {
+        "text": "who are you?",
+        "entities": [],
+        "intent": "intro"
+      },
+      {
+        "text": "what do you do?",
+        "entities": [],
+        "intent": "intro"
+      },
+      {
+        "text": "what can you do for me?",
+        "entities": [],
+        "intent": "intro"
+      },
+      {
+        "text": "hey",
+        "entities": [],
+        "intent": "greet"
+      },
+      {
+        "text": "hey",
+        "entities": [],
+        "intent": "greet"
+      },
+      {
+        "text": "howdy",
+        "entities": [],
+        "intent": "greet"
+      },
+      {
+        "text": "hey there",
+        "entities": [],
+        "intent": "greet"
+      },
+      {
+        "text": "hello",
+        "entities": [],
+        "intent": "greet"
+      },
+      {
+        "text": "hi",
+        "entities": [],
+        "intent": "greet"
+      },
+      {
+        "text": "yes",
+        "entities": [],
+        "intent": "affirm"
+      },
+      {
+        "text": "yep",
+        "entities": [],
+        "intent": "affirm"
+      },
+      {
+        "text": "yeah",
+        "entities": [],
+        "intent": "affirm"
+      },
+      {
+        "text": "bye",
+        "entities": [],
+        "intent": "goodbye"
+      },
+      {
+        "text": "goodbye",
+        "entities": [],
+        "intent": "goodbye"
+      },
+      {
+        "text": "good bye",
+        "entities": [],
+        "intent": "goodbye"
+      },
+      {
+        "text": "stop",
+        "entities": [],
+        "intent": "goodbye"
+      },
+      {
+        "text": "end",
+        "entities": [],
+        "intent": "goodbye"
+      },
+      {
+        "text": "indeed",
+        "entities": [],
+        "intent": "affirm"
+      },
+      {
+        "text": "that's right",
+        "entities": [],
+        "intent": "affirm"
+      },
+      {
+        "text": "ok",
+        "entities": [],
+        "intent": "affirm"
+      },
+      {
+        "text": "great",
+        "entities": [],
+        "intent": "affirm"
+      },
+      {
+        "text": "What is GST",
+        "entities": [
+          {
+            "entity": "gst-info-value",
+            "start": 8,
+            "end": 11,
+            "value": "GST"
+          }
+        ],
+        "intent": "gst-info"
+      },
+      {
+        "text": "What are the benefits of GST",
+        "entities": [
+          {
+            "entity": "gst-info-value",
+            "start": 13,
+            "end": 22,
+            "value": "benefits"
+          }
+        ],
+        "intent": "gst-info"
+      },
+      {
+        "text": "What are the benefits of GST for business",
+        "entities": [
+          {
+            "entity": "gst-explain-type",
+            "start": 13,
+            "end": 22,
+            "value": "benefits"
+          },
+          {
+            "entity": "gst-explain-value",
+            "start": 33,
+            "end": 41,
+            "value": "business"
+          }
+        ],
+        "intent": "gst-info"
+      },
+      {
+        "text": "What are the benefits of GST for government",
+        "entities": [
+          {
+            "entity": "gst-info-type",
+            "start": 13,
+            "end": 22,
+            "value": "benefits"
+          },
+          {
+            "entity": "gst-info-value",
+            "start": 33,
+            "end": 43,
+            "value": "government"
+          }
+        ],
+        "intent": "gst-info"
+      },
+      {
+        "text": "What is GST rate for grains",
+        "entities": [
+          {
+            "entity": "gst-query-value",
+            "start": 21,
+            "end": 27,
+            "value": "grains"
+          },
+          {
+            "entity": "gst-query-type",
+            "start": 12,
+            "end": 17,
+            "value": "rate"
+          }
+        ],
+        "intent": "gst-query"
+      },
+      {
+        "text": "What are goods exempt from GST",
+        "entities": [
+          {
+            "entity": "gst-query-value",
+            "start": 15,
+            "end": 22,
+            "value": "exempt"
+          },
+          {
+            "entity": "gst-query-type",
+            "start": 9,
+            "end": 15,
+            "value": "goods"
+          }
+        ],
+        "intent": "gst-query"
+      },
+      {
+        "text": "What are services exempt from GST",
+        "entities": [
+          {
+            "entity": "gst-query-value",
+            "start": 9,
+            "end": 18,
+            "value": "services"
+          },
+          {
+            "entity": "gst-query-type",
+            "start": 18,
+            "end": 25,
+            "value": "exempt"
+          }
+        ],
+        "intent": "gst-query"
+      },
+      {
+        "text": "What are Goods attracting 5% GST",
+        "entities": [
+          {
+            "entity": "gst-query-type",
+            "start": 9,
+            "end": 15,
+            "value": "Goods"
+          },
+          {
+            "entity": "gst-query-value",
+            "start": 26,
+            "end": 28,
+            "value": "5%"
+          }
+        ],
+        "intent": "gst-query"
+      },
+      {
+        "text": "What are Goods attracting 12% GST",
+        "entities": [
+          {
+            "entity": "gst-query-type",
+            "start": 9,
+            "end": 15,
+            "value": "Goods"
+          },
+          {
+            "entity": "gst-query-value",
+            "start": 26,
+            "end": 29,
+            "value": "12%"
+          }
+        ],
+        "intent": "gst-query"
+      }
+    ],
+    "regex_features": []
+  }
+}
